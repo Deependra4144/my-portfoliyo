@@ -105,6 +105,13 @@ const App = () => {
 
   const projects = [
     {
+      title: "E-commerce",
+      description: "A MERN-based e-commerce website with dynamic product listings, search, filtering, cart system, and UPI payment integration.",
+      tech: ["React", "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "Tailwind"],
+      image: "https://e-commerce-pi-five-10.vercel.app/assets/logo-Czcu_9Wi.jpg",
+      link: "https://e-commerce-pi-five-10.vercel.app/"
+    },
+    {
       title: "Wildly Indian (Fish E-commerce)",
       description: "A MERN-based fish-selling e-commerce website with dynamic product listings, search, filtering, cart system, and UPI payment integration.",
       tech: ["React", "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "Tailwind"],
