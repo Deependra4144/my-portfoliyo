@@ -133,6 +133,13 @@ const App = () => {
       link: "#"
     },
     {
+      title: "Task Manager",
+      description: "A MERN-based e-commerce website with dynamic product listings, search, filtering, cart system, and UPI payment integration.",
+      tech: ["React", "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "Tailwind"],
+      image: "",
+      link: "https://notes-app-one-olive.vercel.app/"
+    },
+    {
       title: "YouTube Backend API System",
       description: "A backend system built with Node.js and MongoDB to support video uploads, authentication, subscriptions, comments, and history tracking.",
       tech: ["Node.js", "Express.js", "MongoDB", "Mongoose", "JWT", "Cloudinary"],
